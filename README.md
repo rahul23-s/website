@@ -2,6 +2,8 @@
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
+You can use CindyJS to create your own interactive Physics Simulations. 
+Really Helpful framework to build interactive content for your website.
 If there is something wrong with the content on that web site,
 feel free to
 [file an issue with this repository](https://github.com/CindyJS/website/issues),
